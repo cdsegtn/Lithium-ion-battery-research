@@ -2,7 +2,7 @@
 
 
 电池的相关数据集：http://www.aesa.net.cn/About.aspx?ClassID=200
-
+锂离子电池数据集：https://zhuanlan.zhihu.com/p/538622552
 
 电池的相关研究：https://snailwish.com/555/
 
