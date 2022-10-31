@@ -14,7 +14,7 @@
 电池相关代码：
 https://github.com/YunweiZhang/ML-identify-battery-degradation
 
-https://github.com/chueh-ermon/battery-fast-charging-optimization
+论文：https://github.com/chueh-ermon/battery-fast-charging-optimization
 
 使用机器学习从阻抗谱中识别锂离子电池的退化模式：https://www.nature.com/articles/s41467-020-15235-7/
 
