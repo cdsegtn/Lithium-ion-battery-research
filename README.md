@@ -45,3 +45,5 @@ LSTMs and Autoencoders
 论文：An end-to-end neural network framework for SOH estimation and RUL prediction of lithium battery
 
 开源代码：https://github.com/Lipenghua-CQ/CNN-ASTLSTM
+
+可查询代码：https://paperswithcode.com/
