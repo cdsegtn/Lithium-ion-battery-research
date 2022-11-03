@@ -39,6 +39,7 @@ https://github.com/chueh-ermon/battery-fast-charging-optimization
 论文：To Charge or To Sell? EV Pack Useful Life Estimation via
 LSTMs and Autoencoders
 
+查询代码：https://paperswithcode.com/
 开源代码：https://github.com/MichaelBosello/battery-rul-estimation
 
 论文：An end-to-end neural network framework for SOH estimation and RUL prediction of lithium battery
